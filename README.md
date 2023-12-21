@@ -9,9 +9,16 @@
 ```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dootss&color=dc143c&style=flat-square" alt="dootss's profile views" />
+  <!-- Profile Views -->
+ <img src="https://komarev.com/ghpvc/?username=dootss&style=flat-square&color=ff69b4&label=views" alt="views on dootss' profile" />
+
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/dootss?style=flat-square&color=ff69b4" alt="dootss' GitHub stars"/>
 </p>
 
+
+
+      
 <p align="center">
   <sub>dootw</sub>
 </p>
