@@ -12,7 +12,7 @@ Python, JS
 AI, OSINT, Cybersecurity
 
 [dootss@github ~/me]$ ls best-projects
-shodan-dorks  noter  catbox-scraper  discord-invite-bruteforcer
+shodan-dorks  noter  catbox-scraper  discord-invite-bruteforcer python-minesweeper 
 ```
 
 <p align="center">
