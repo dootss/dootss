@@ -8,9 +8,6 @@ enjoy looking around
 [dootss@github ~/me]$ cat languages
 Python, JS
 
-[dootss@github ~/me]$ cat interests
-AI, OSINT, Cybersecurity
-
 [dootss@github ~/me]$ ls best-projects
 shodan-dorks  noter  catbox-scraper  discord-invite-bruteforcer python-minesweeper 
 ```
