@@ -1,16 +1,5 @@
 ```bash
-~ ssh -i .ssh/silly.pem github@1.2.3.4
-welcome to my github page!
-enjoy looking around
-
-[dootss@github ~]$ cd me
-
-[dootss@github ~/me]$ cat languages
-Python, JS
-
-[dootss@github ~/me]$ ls best-projects
-shodan-dorks  noter  catbox-scraper  discord-invite-bruteforcer python-minesweeper 
-```
+goober
 
 <p align="center">
   <!-- Profile Views -->
