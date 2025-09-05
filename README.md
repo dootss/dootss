@@ -1,4 +1,3 @@
-```bash
 goober
 
 <p align="center">
